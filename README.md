@@ -32,4 +32,24 @@ A beginner-friendly AI demo web app: randomly selects a "father" and "mother" fa
 
 ![App Example Screenshot](screenshot.png)
 
+## Technologies Used
+
+- [Streamlit](https://streamlit.io/) &mdash; for rapid web app development in Python
+- [Pillow (PIL)](https://python-pillow.org/) &mdash; for image loading/manipulation
+- [OpenCV](https://opencv.org/) &mdash; for image processing and future extensions
+- [NumPy](https://numpy.org/) &mdash; for image array operations
+- Python 3.8+
+
+
+## Credit
+
+- Face image concept loosely inspired by open source AI image and face blending experiments.
+- Face samples obtained from [thispersondoesnotexist.com](https://thispersondoesnotexist.com) (AI-generated).
+- This project was created as a portfolio and learning exercise.
+
+## License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
 ---
