@@ -2,6 +2,10 @@
 
 A beginner-friendly AI demo web app: randomly selects a "father" and "mother" face (from AI-generated images), and blends their features to create a synthetic "offspring" face by pixelwise image averaging.
 
+---
+**[👉 Click here to try the Offspring Face Generator live!](https://offspring-face-generator-gqb9ozsbse6hswgcf6ynkk.streamlit.app/)**
+---
+
 ## Features
 
 - Randomly picks two parents (male/female) from provided image folders
